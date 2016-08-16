@@ -1,0 +1,72 @@
+body {
+	background: #F2F5A9;
+
+	}
+
+h1 {
+	background: #00FFBF;
+	/*border:1px;*/
+	/*margin: 2px;*/
+	/*padding: 2px;*/
+	/*top: 50px;*/
+	border-radius: 50px;
+	/*width: 100px;*/
+	/*height: 50px;*/
+	color: rgba(6,8,128,.6); 
+	font-size: 50px;
+	font-family: Lucida;
+	height: 100px;
+	width: 400px;
+	display: block;
+	margin: auto;
+	text-align: center;
+	}
+
+h2, h3 {
+	color: #0B0B61;
+	font-family: Verdana;
+	}
+
+.designer-name{
+	background-color: #FE2EF7;
+	border-radius: 5px;
+	/*height:50px; */
+	width:200px;
+	}
+
+
+
+
+
+
+.view-css{ 
+	background-color: #B40404;
+	border-radius: 5px;
+	/*height:50px; */
+	width:200px;
+	}
+
+.css-resources{ 
+	background-color: #DF0101;
+	width:200px;
+	border-radius: 5px;
+	}
+
+.zen-faq{ 
+	background-color: #FF0000;
+	width:200px;
+	border-radius: 5px;
+	}
+
+.zen-submit	{ 
+	background-color: #FE2E2E;
+	width:200px;
+	border-radius: 5px;
+	}
+
+.zen-translations { 
+	background-color: #FA5858;
+	width:200px;
+	border-radius: 5px;
+	}
+
